@@ -11,11 +11,11 @@
   "logo": {
     "small": {
       "$type": "image",
-      "$value": "IncubateLogoWS.png"
+      "$value": "UkraineW.png"
     },
     "large": {
       "$type": "image",
-      "$value": "IncubateLogoW.png"
+      "$value": "UkraineW.png"
     }
   },
   "nav": {
@@ -40,13 +40,13 @@
     }
   },
   "date": "August 6-7",
-  "venue": "MTV Flyp Cafe Cannaught Place",
+  "venue": "TBD",
   "btn_sponsor": "Sponsor Us",
   "btn_register": [
     "Register",
     {
       "$type": "link",
-      "$value": "https://secondgen.typeform.com/to/NYrrdM"
+      "$value": "https://secondgen.typeform.com/to/JJ3k0O"
     }
   ],
   "no_registration_yet": "Registration is not yet open.<br>Please check back in a few weeks!",
@@ -312,12 +312,12 @@
       "$value": []
     }
   },
-  "sponsor_contact": "If you are interested in sponsoring IncubateX, you can view our <a href='https://drive.google.com/file/d/0B1i3yw36qU8XSV92NGFlWVdERnM/view?usp=sharing' target='_blank'>sponsor packet</a>. For more information, contact us at <a href='mailto:ind@incubatex.org'>IND@incubatex.org</a>.",
+  "sponsor_contact": "If you are interested in sponsoring IncubateX, you can view our <a href='https://drive.google.com/file/d/0B1i3yw36qU8XSV92NGFlWVdERnM/view?usp=sharing' target='_blank'>sponsor packet</a>. For more information, contact us at <a href='mailto:ukr@incubatex.org'>ukr@incubatex.org</a>.",
   "contact_us": "Contact Us",
   "contact": {
     "email": {
       "$type": "link",
-      "$value": "mailto:ind@incubatex.org"
+      "$value": "mailto:ukr@incubatex.org"
     },
     "facebook": {
       "$type": "link",
