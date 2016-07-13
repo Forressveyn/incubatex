@@ -19,11 +19,11 @@
     }
   },
   "nav": {
-    "about": "About",
+    "about": "Про Хакатон",
     "faq": "FAQ",
-    "schedule": "Schedule",
-    "sponsors": "Sponsors",
-    "contact": "Contact"
+    "schedule": "Расписание",
+    "sponsors": "Партнеры",
+    "contact": "Контакты"
   },
   "bg": {
     "top": {
@@ -39,8 +39,8 @@
       "$value": "15.jpg"
     }
   },
-  "date": "August 6-7",
-  "venue": "TBD",
+  "date": "20-21 Августа",
+  "venue": "бул. Ивана Лепсе 6-в, офис компании Zeo Alliance",
   "btn_sponsor": "Sponsor Us",
   "btn_register": [
     "Register",
@@ -49,7 +49,7 @@
       "$value": "https://secondgen.typeform.com/to/JJ3k0O"
     }
   ],
-  "no_registration_yet": "Registration is not yet open.<br>Please check back in a few weeks!",
+  "no_registration_yet": "Регистрация еще не началась.<br>Ожидайте анонса открытия регистрации в ближайшее время!",
   "section": {
     "faq": "Frequently Asked Questions",
     "schedule": "Schedule",
@@ -62,57 +62,57 @@
         "$type": "class",
         "$value": "fa-book"
       },
-      "head": "Learn",
-      "body": "IncubateX will be an educational experience for participants of all levels. We will have various workshops from which participants can learn entirely new skills or platforms, and many mentors who will be able to share their knowledge acquired with years of experience."
+      "head": "Узнавай новое",
+      "body": "IncubateX призван развить новые положительные качества в каждом участнике. Спикеры помогут открыть вам новые возможности, а менторы поделяться опытом и навыками, достигнутыми за многие годы работы. "
     },
     "second": {
       "icon": {
         "$type": "class",
         "$value": "fa-lightbulb-o"
       },
-      "head": "Build",
-      "body": "IncubateX will foster growth, creating an environment in which participants can create revolutionary products with technology. With 30 hours to hack, teams will have the ability to complete polished products with the potential to disrupt industries."
+      "head": "Твори",
+      "body": "IncubateX знаменит атмосферой, в которой участники создают революционные продукты и технологии. За 30 часов работы команды будут иметь возможность завершить прототип продукта, который упростит и улучшит жизни множества людей!"
     },
     "third": {
       "icon": {
         "$type": "class",
         "$value": "fa-users"
       },
-      "head": "Connect",
+      "head": "Взаимодействуй",
       "body": "Because IncubateX is an entrepreneurship hackathon, participants will have diverse skillsets. Designers, developers, and budding entrepreneurs will come together to network and create amazing products."
     }
   },
   "countup": {
     "attendees": {
-      "number": 200,
-      "unit": "ATTENDEES"
+      "number": 120,
+      "unit": "УЧАСТНИКОВ"
     },
     "hours": {
       "number": 30,
-      "unit": "HOURS"
+      "unit": "ЧАСОВ"
     },
     "opportunity": {
       "number": 1,
-      "unit": "LIFETIME OPPORTUNITY"
+      "unit": "ГАРАНТИРОВАННАЯ ДОЛГОСТРОЧНАЯ ВОЗМОЖНОСТЬ"
     }
   },
   "faq": {
     "application": {
-      "title": "Application",
+      "title": "Регистрация",
       "contents": {
         "$type": "array_cols",
         "$value": [
           {
-            "question": "Who can apply?",
-            "answer": "Any high school or college student can apply to participate in IncubateX, regardless of experience with programming. Because it is an entrepreneurship event, we are looking for a diverse pool of participants in terms of skillsets."
+            "question": "Кто может подавать заявку?",
+            "answer": "Любая команда может принять участие в IncubateX, независимо от опыта в программировании. Так как это продуктовый хакатон, будут востребованы участники с самыми разнообразными идеями."
           },
           {
-            "question": "How do I apply?",
-            "answer": "Just fill out the registration form! More info will be sent out later."
+            "question": "Как мне зарегестрировать команду?",
+            "answer": "Просто заполни форму регистрации! Остальные инструкции ты получишь по почте."
           },
           {
-            "question": "What is the application deadline?",
-            "answer": "This will be decided later. The sooner you apply, the better!"
+            "question": "Когда дедлайн регистрации?",
+            "answer": "12 августа в 00:00 будет принята последняя заявка."
           }
         ],
         "$options": {
@@ -126,16 +126,16 @@
         "$type": "array_cols",
         "$value": [
           {
-            "question": "When/Where?",
-            "answer": "IncubateX will take place on August 6-7 at TBD."
+            "question": "Где/Когда?",
+            "answer": "IncubateX пройдет 20-21 августа в офисе компании Zeo Alliance по адресу бул. Ивана Лепсе 6в, г. Киев"
           },
           {
-            "question": "Is there transportation or travel reimbursement?",
-            "answer": "No"
+            "question": "Могут ли возникнуть трудности с транспортировкой? ",
+            "answer": "Нет"
           },
           {
-            "question": "What should I bring?",
-            "answer": "Bring your laptop, toiletries, a sleeping bag, and any other technology that you want to hack with. You <strong>don't</strong> need a predetermined team or a product idea."
+            "question": "Что мне стоит взять с собой? ",
+            "answer": "Бери с собой всё, что поможет тебе максимально раскрыться! Если для этого тебе нужна любимая кружка или старая детская мягкая игрушка - неприменно бери их с собой! "
           }
         ],
         "$options": {
