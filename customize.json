@@ -39,11 +39,11 @@
       "$value": "15.jpg"
     }
   },
-  "date": "20-21 Августа",
-  "venue": "Офис Zeo Alliance ",
-  "btn_sponsor": "Поддержать",
+  "date": "20-21 августа",
+  "venue": "Zeo Alliance КИЕВ",
+  "btn_sponsor": "СТАТЬ ПАРТНЕРОМ",
   "btn_register": [
-    "Зарегестрироваться",
+    "ПОДАТЬ ЗАЯВКУ",
     {
       "$type": "link",
       "$value": "https://secondgen.typeform.com/to/JJ3k0O"
@@ -62,24 +62,24 @@
         "$type": "class",
         "$value": "fa-book"
       },
-      "head": "Познавай",
-      "body": "IncubateX призван развить новые положительные качества в каждом участнике. Спикеры помогут открыть вам новые возможности, а менторы поделяться опытом и навыками, достигнутыми за многие годы работы. "
+      "head": "Открывай",
+      "body": "IncubateX призван развить новые скилы в каждом участнике. Спикеры откроют вам новые возможности, а менторы поделяться опытом и навыками, достигнутыми за многие годы работы. "
     },
     "second": {
       "icon": {
         "$type": "class",
         "$value": "fa-lightbulb-o"
       },
-      "head": "Твори",
-      "body": "IncubateX знаменит атмосферой, в которой участники создают революционные продукты и технологии. За 30 часов работы команды будут иметь возможность завершить прототип продукта, который упростит и улучшит жизни множества людей!"
+      "head": "Создавай",
+      "body": "IncubateX знаменит атмосферой, в которой участники создают революционные продукты и технологии. За 30 часов работы ты будешь иметь возможность создать то, что улучшит жизни многих людей!"
     },
     "third": {
       "icon": {
         "$type": "class",
         "$value": "fa-users"
       },
-      "head": "Взаимодействуй",
-      "body": "Because IncubateX is an entrepreneurship hackathon, participants will have diverse skillsets. Designers, developers, and budding entrepreneurs will come together to network and create amazing products."
+      "head": "Строй",
+      "body": "Это продуктовый хакатон, нужно будет хорошо показать все важные стороны  . Designers, developers, and budding entrepreneurs will come together to network and create amazing products."
     }
   },
   "countup": {
@@ -93,7 +93,7 @@
     },
     "opportunity": {
       "number": 1,
-      "unit": "ГАРАНТИРОВАННАЯ ДОЛГОСТРОЧНАЯ ВОЗМОЖНОСТЬ"
+      "unit": "ГАРАНТИРОВАННАЯ ВОЗМОЖНОСТЬ РАЗВИТИЯ"
     }
   },
   "faq": {
@@ -312,12 +312,12 @@
       "$value": []
     }
   },
-  "sponsor_contact": "If you are interested in sponsoring IncubateX, you can view our <a href='https://drive.google.com/file/d/0B1i3yw36qU8XSV92NGFlWVdERnM/view?usp=sharing' target='_blank'>sponsor packet</a>. For more information, contact us at <a href='mailto:ukr@incubatex.org'>ukr@incubatex.org</a>.",
-  "contact_us": "Contact Us",
+  "sponsor_contact": 'По вопросам сотрудничества писать по адресу ' <a href='mailto:'incubateX@inhacking.com'>incubateX(at)inhacking.com</a>.",
+  "contact_us": "Связаться с нами",
   "contact": {
     "email": {
       "$type": "link",
-      "$value": "mailto:bbba.hnd@gmail.com"
+      "$value": "incubateX@inhacking.com"
     },
     "facebook": {
       "$type": "link",
@@ -325,7 +325,7 @@
     },
     "twitter": {
       "$type": "link",
-      "$value": "https://www.twitter.com/Incubate_X/"
+      "$value": ""
     }
   }
 }
