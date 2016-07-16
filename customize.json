@@ -312,7 +312,7 @@
       "$value": []
     }
   },
-  "sponsor_contact": 'По вопросам сотрудничества писать по адресу ' <a href='mailto:'incubateX@inhacking.com'>incubateX(at)inhacking.com</a>.",
+  "sponsor_contact": "По вопросам сотрудничества писать по адресу <a href='mailto:incubateX@inhacking.com'>incubateX(at)inhacking.com</a>",
   "contact_us": "Связаться с нами",
   "contact": {
     "email": {
