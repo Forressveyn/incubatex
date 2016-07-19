@@ -1,334 +1,296 @@
 {
-  "title": "IncubateX",
-  "color": {
-    "$type": "theme",
-    "$value": [
-      245,
-      128,
-      97
-    ]
-  },
-  "logo": {
-    "small": {
-      "$type": "image",
-      "$value": "UkraineW.png"
-    },
-    "large": {
-      "$type": "image",
-      "$value": "UkraineW.png"
-    }
-  },
-  "nav": {
-    "about": "Информация",
-    "faq": "FAQ",
-    "schedule": "Расписание",
-    "sponsors": "Партнеры",
-    "contact": "Контакты"
-  },
-  "bg": {
-    "top": {
-      "$type": "parallax",
-      "$value": "5.jpg"
-    },
-    "middle": {
-      "$type": "parallax",
-      "$value": "10.jpg"
-    },
-    "bottom": {
-      "$type": "parallax",
-      "$value": "15.jpg"
-    }
-  },
-  "date": "20-21 августа",
-  "venue": "Zeo Alliance КИЕВ",
-  "btn_sponsor": "СТАТЬ ПАРТНЕРОМ",
-  "btn_register": [
-    "ПОДАТЬ ЗАЯВКУ",
-    {
-      "$type": "link",
-      "$value": "https://secondgen.typeform.com/to/JJ3k0O"
-    }
-  ],
-  "no_registration_yet": "Регистрация еще не началась.<br>Ожидайте анонса открытия регистрации в ближайшее время!",
-  "section": {
-    "faq": "Информация",
-    "schedule": "Расписание,
-    "our_sponsors": "Наши спонсоры",
-    "be_sponsor": "Поддержать проект"
-  },
-  "about": {
-    "first": {
-      "icon": {
-        "$type": "class",
-        "$value": "fa-book"
-      },
-      "head": "Открывай",
-      "body": "Задача IncubateX — развить профессиональные навыки участников. Спикеры и менторы поделятся новыми знаниями и подскажут, как оптимизировать уже имеющиеся навыки."
-    },
-    "second": {
-      "icon": {
-        "$type": "class",
-        "$value": "fa-lightbulb-o"
-      },
-      "head": "Создавай",
-      "body": "Участники хакатона создают революционные продукты и технологии, а IncubateX организовывает всё необходимое для приятной и продуктивной работы команд. За 30 часов команды смогут разработать прототип продукта, который сделает мир лучше. 
-"
-    },
-    "third": {
-      "icon": {
-        "$type": "class",
-        "$value": "fa-users"
-      },
-      "head": "Строй",
-      "body": "IncubateX поможет развить навыки по разным направлениям. Среди участников хакатона будут дизайнеры, разработчики и начинающие предприниматели, которые объединят усилия для создания удивительных продуктов."
-      
-    }
-  },
-  "countup": {
-    "attendees": {
-      "number": 120,
-      "unit": "УЧАСТНИКОВ"
-    },
-    "hours": {
-      "number": 30,
-      "unit": "ЧАСОВ"
-    },
-    "opportunity": {
-      "number": 1,
-      "unit": "ГАРАНТИРОВАННАЯ ВОЗМОЖНОСТЬ РАЗВИТИЯ"
-    }
-  },
-  "faq": {
-    "application": {
-      "title": "Регистрация",
-      "contents": {
-        "$type": "array_cols",
-        "$value": [
-          {
-            "question": "Кто может подавать заявку?",
-            "answer": "Любая команда может принять участие в IncubateX, независимо от опыта в программировании. Так как это продуктовый хакатон, будут востребованы участники с самыми разнообразными идеями."
-          },
-          {
-            "question": "Как мне зарегестрировать команду?",
-            "answer": "Просто заполни форму регистрации! Остальную информацию ты получишь по почте."
-          },
-          {
-            "question": "Когда заканчивается регистрации?",
-            "answer": "12 августа в полночь прием заявок будет прекращен."
-          }
-        ],
-        "$options": {
-          "colsInRow": 3
-        }
-      }
-    },
-    "logistics": {
-      "title": "Логистика",
-      "contents": {
-        "$type": "array_cols",
-        "$value": [
-          {
-            "question": "Когда?",
-            "answer": "IncubateX пройдет 20-21 августа"
-          },
-          {
-            "question": "Где?",
-            "answer": "В офисе компании Zeo Alliance по адресу бул. Ивана Лепсе 6в, г. Киев
-"
-          },
-          {
-            "question": "Что мне стоит взять с собой? ",
-            "answer": "Ноутбук, необходимые провода, а также всё, что помогает тебе в работе. Если для этого тебе нужна любимая кружка — бери её с собой."
-          }
-        ],
-        "$options": {
-          "colsInRow": 3
-        }
-      }
-    },
-    "hacking": {
-      "title": "Разработка",
-      "contents": {
-        "$type": "array_cols",
-        "$value": [
-          {
-            "question": "Сколько времени отведено на разработку?",
-            "answer": "У команд есть 30 часов на реализацию идеи."
-          },
-          {
-            "question": "Есть ли ограничения по технологиям?",
-            "answer": "Нет. Вы можете использовать всё, что вам необходимо."
-          },
-          {
-            "question": "Каждый член команды должен уметь программировать?",
-            "answer": "Нет! Участники могут быть задействованы как менеджеры проекта, дизайнеры или выполнять другие обязанности в команде."
-          }
-        ],
-        "$options": {
-          "colsInRow": 3
-        }
-      }
-    },
-    "other": {
-      "title": "Другое",
-      "contents": {
-        "$type": "array_cols",
-        "$value": [
-          {
-            "question": "Сколько стоит участие?",
-            "answer": "Те, кто попадут в список 120 счастливцев, должны будут купить билет по специальному промо-коду за 200 гривен"
-          },
-          {
-            "question": "Какие правила поведения?",
-            "answer": "Всё просто: уважайте других участников и не будьте придурком"
-          },
-          {
-            "question": "Будут ли призы?",
-            "answer": "Конечно! Будут и ценные призы и долгосрочная помощь проектам от компаний–партнеров. Полный список призов откроем позже."
-          }
-        ],
-        "$options": {
-          "colsInRow": 3
-        }
-      }
-    }
-  },
-  "schedule": {
-    "day1": {
-      "date": "20 Августа, 2016",
-      "table": {
-        "$type": "array_rows",
-        "$value": [
-          {
-            "time": "AM",
-            "event": "Check In",
-            "place": ""
-          },
-          {
-            "time": "10AM",
-            "event": "Welcome + Keynotes",
-            "place": ""
-          },
-          {
-            "time": "11AM",
-            "event": "Demos",
-            "place": ""
-          },
-          {
-            "time": "12PM",
-            "event": "Hacking Begins",
-            "place": ""
-          },
-          {
-            "time": "1PM",
-            "event": "Lunch",
-            "place": ""
-          },
-          {
-            "time": "2PM",
-            "event": "Workshops",
-            "place": ""
-          },
-          {
-            "time": "7PM",
-            "event": "Dinner",
-            "place": ""
-          }
-        ]
-      }
-    },
-    "day2": {
-      "date": "August 7th, 2016",
-      "table": {
-        "$type": "array_rows",
-        "$value": [
-          {
-            "time": "12AM",
-            "event": "Midnight Snack",
-            "place": ""
-          },
-          {
-            "time": "3AM",
-            "event": "HypeFest",
-            "place": ""
-          },
-          {
-            "time": "5AM",
-            "event": "Surprise",
-            "place": ""
-          },
-          {
-            "time": "7AM",
-            "event": "Breakfast",
-            "place": ""
-          },
-          {
-            "time": "12PM",
-            "event": "Lunch & Hacking Ends",
-            "place": ""
-          },
-          {
-            "time": "1PM",
-            "event": "Hack Demo Fair",
-            "place": ""
-          },
-          {
-            "time": "2PM",
-            "event": "Closing Ceremony",
-            "place": ""
-          },
-          {
-            "time": "3PM",
-            "event": "Hackathon Ends",
-            "place": ""
-          }
-        ]
-      }
-    }
-  },
-  "sponsors": {
-    "name_sponsor": {
-      "$type": "array_cols",
-      "$value": []
-    },
-    "gold": {
-      "$type": "array_cols",
-      "$value": [
-        {
-          "link": {
-            "$type": "link",
-            "$value": "http://www.secondgen.org"
-          },
-          "image": {
-            "$type": "image",
-            "$value": "sponsors/2ndGen.png"
-          }
-        }
-      ]
-    },
-    "silver": {
-      "$type": "array_cols",
-      "$value": []
-    },
-    "bronze": {
-      "$type": "array_cols",
-      "$value": []
-    }
-  },
-  "sponsor_contact": "По вопросам сотрудничества писать по адресу <a href='mailto:incubateX@inhacking.com'>incubateX(at)inhacking.com</a>",
-  "contact_us": "Связаться с нами",
-  "contact": {
-    "email": {
-      "$type": "link",
-      "$value": "incubateX@inhacking.com"
-    },
-    "facebook": {
-      "$type": "link",
-      "$value": "https://www.facebook.com/events/1149049561804077/"
-    },
-    "twitter": {
-      "$type": "link",
-      "$value": ""
-    }
-  }
+	"title": "IncubateX",
+	"color": {
+		"$type": "theme",
+		"$value": [
+			245,
+			128,
+			97
+		]
+	},
+	"logo": {
+		"small": {
+			"$type": "image",
+			"$value": "UkraineW.png"
+		},
+		"large": {
+			"$type": "image",
+			"$value": "UkraineW.png"
+		}
+	},
+	"nav": {
+		"about": "Информация",
+		"faq": "FAQ",
+		"schedule": "Расписание",
+		"sponsors": "Партнеры",
+		"contact": "Контакты"
+	},
+	"bg": {
+		"top": {
+			"$type": "parallax",
+			"$value": "5.jpg"
+		},
+		"middle": {
+			"$type": "parallax",
+			"$value": "10.jpg"
+		},
+		"bottom": {
+			"$type": "parallax",
+			"$value": "15.jpg"
+		}
+	},
+	"date": "20-21 августа",
+	"venue": "Zeo Alliance КИЕВ",
+	"btn_sponsor": "СТАТЬ ПАРТНЕРОМ",
+	"btn_register": [
+		"ПОДАТЬ ЗАЯВКУ", {
+			"$type": "link",
+			"$value": "https://secondgen.typeform.com/to/JJ3k0O"
+		}
+	],
+	"no_registration_yet": "Регистрация еще не началась.<br>Ожидайте анонса открытия регистрации в ближайшее время!",
+	"section": {
+		"faq": "Информация",
+		"schedule": "Расписаниe",
+		"our_sponsors": "Наши спонсоры",
+		"be_sponsor": "Поддержать проект"
+	},
+	"about": {
+		"first": {
+			"icon": {
+				"$type": "class",
+				"$value": "fa-book"
+			},
+			"head": "Открывай",
+			"body": "Задача IncubateX — развить профессиональные навыки участников. Спикеры и менторы поделятся новыми знаниями и подскажут, как оптимизировать уже имеющиеся навыки."
+		},
+		"second": {
+			"icon": {
+				"$type": "class",
+				"$value": "fa-lightbulb-o"
+			},
+			"head": "Создавай",
+			"body": "Участники хакатона создают революционные продукты и технологии, а IncubateX организовывает всё необходимое для приятной и продуктивной работы команд. За 30 часов команды смогут разработать прототип продукта, который сделает мир лучше. "
+		},
+		"third": {
+			"icon": {
+				"$type": "class",
+				"$value": "fa-users"
+			},
+			"head": "Строй",
+			"body": "IncubateX поможет развить навыки по разным направлениям. Среди участников хакатона будут дизайнеры, разработчики и начинающие предприниматели, которые объединят усилия для создания удивительных продуктов."
+
+		}
+	},
+	"countup": {
+		"attendees": {
+			"number": 120,
+			"unit": "УЧАСТНИКОВ"
+		},
+		"hours": {
+			"number": 30,
+			"unit": "ЧАСОВ"
+		},
+		"opportunity": {
+			"number": 1,
+			"unit": "ГАРАНТИРОВАННАЯ ВОЗМОЖНОСТЬ РАЗВИТИЯ"
+		}
+	},
+	"faq": {
+		"application": {
+			"title": "Регистрация",
+			"contents": {
+				"$type": "array_cols",
+				"$value": [{
+					"question": "Кто может подавать заявку?",
+					"answer": "Любая команда может принять участие в IncubateX, независимо от опыта в программировании. Так как это продуктовый хакатон, будут востребованы участники с самыми разнообразными идеями."
+				}, {
+					"question": "Как мне зарегестрировать команду?",
+					"answer": "Просто заполни форму регистрации! Остальную информацию ты получишь по почте."
+				}, {
+					"question": "Когда заканчивается регистрации?",
+					"answer": "12 августа в полночь прием заявок будет прекращен."
+				}],
+				"$options": {
+					"colsInRow": 3
+				}
+			}
+		},
+		"logistics": {
+			"title": "Логистика",
+			"contents": {
+				"$type": "array_cols",
+				"$value": [{
+					"question": "Когда?",
+					"answer": "IncubateX пройдет 20-21 августа"
+				}, {
+					"question": "Где?",
+					"answer": "В офисе компании Zeo Alliance по адресу бул. Ивана Лепсе 6в, г. Киев"
+				}, {
+					"question": "Что мне стоит взять с собой? ",
+					"answer": "Ноутбук, необходимые провода, а также всё, что помогает тебе в работе. Если для этого тебе нужна любимая кружка — бери её с собой."
+				}],
+				"$options": {
+					"colsInRow": 3
+				}
+			}
+		},
+		"hacking": {
+			"title": "Разработка",
+			"contents": {
+				"$type": "array_cols",
+				"$value": [{
+					"question": "Сколько времени отведено на разработку?",
+					"answer": "У команд есть 30 часов на реализацию идеи."
+				}, {
+					"question": "Есть ли ограничения по технологиям?",
+					"answer": "Нет. Вы можете использовать всё, что вам необходимо."
+				}, {
+					"question": "Каждый член команды должен уметь программировать?",
+					"answer": "Нет! Участники могут быть задействованы как менеджеры проекта, дизайнеры или выполнять другие обязанности в команде."
+				}],
+				"$options": {
+					"colsInRow": 3
+				}
+			}
+		},
+		"other": {
+			"title": "Другое",
+			"contents": {
+				"$type": "array_cols",
+				"$value": [{
+					"question": "Сколько стоит участие?",
+					"answer": "Те, кто попадут в список 120 счастливцев, должны будут купить билет по специальному промо-коду за 200 гривен"
+				}, {
+					"question": "Какие правила поведения?",
+					"answer": "Всё просто: уважайте других участников и не будьте придурком"
+				}, {
+					"question": "Будут ли призы?",
+					"answer": "Конечно! Будут и ценные призы и долгосрочная помощь проектам от компаний–партнеров. Полный список призов откроем позже."
+				}],
+				"$options": {
+					"colsInRow": 3
+				}
+			}
+		}
+	},
+	"schedule": {
+		"day1": {
+			"date": "20 Августа, 2016",
+			"table": {
+				"$type": "array_rows",
+				"$value": [{
+					"time": "AM",
+					"event": "Check In",
+					"place": ""
+				}, {
+					"time": "10AM",
+					"event": "Welcome + Keynotes",
+					"place": ""
+				}, {
+					"time": "11AM",
+					"event": "Demos",
+					"place": ""
+				}, {
+					"time": "12PM",
+					"event": "Hacking Begins",
+					"place": ""
+				}, {
+					"time": "1PM",
+					"event": "Lunch",
+					"place": ""
+				}, {
+					"time": "2PM",
+					"event": "Workshops",
+					"place": ""
+				}, {
+					"time": "7PM",
+					"event": "Dinner",
+					"place": ""
+				}]
+			}
+		},
+		"day2": {
+			"date": "August 7th, 2016",
+			"table": {
+				"$type": "array_rows",
+				"$value": [{
+					"time": "12AM",
+					"event": "Midnight Snack",
+					"place": ""
+				}, {
+					"time": "3AM",
+					"event": "HypeFest",
+					"place": ""
+				}, {
+					"time": "5AM",
+					"event": "Surprise",
+					"place": ""
+				}, {
+					"time": "7AM",
+					"event": "Breakfast",
+					"place": ""
+				}, {
+					"time": "12PM",
+					"event": "Lunch & Hacking Ends",
+					"place": ""
+				}, {
+					"time": "1PM",
+					"event": "Hack Demo Fair",
+					"place": ""
+				}, {
+					"time": "2PM",
+					"event": "Closing Ceremony",
+					"place": ""
+				}, {
+					"time": "3PM",
+					"event": "Hackathon Ends",
+					"place": ""
+				}]
+			}
+		}
+	},
+	"sponsors": {
+		"name_sponsor": {
+			"$type": "array_cols",
+			"$value": []
+		},
+		"gold": {
+			"$type": "array_cols",
+			"$value": [{
+				"link": {
+					"$type": "link",
+					"$value": "http://www.secondgen.org"
+				},
+				"image": {
+					"$type": "image",
+					"$value": "sponsors/2ndGen.png"
+				}
+			}]
+		},
+		"silver": {
+			"$type": "array_cols",
+			"$value": []
+		},
+		"bronze": {
+			"$type": "array_cols",
+			"$value": []
+		}
+	},
+	"sponsor_contact": "По вопросам сотрудничества писать по адресу <a href='mailto:incubateX@inhacking.com'>incubateX(at)inhacking.com</a>",
+	"contact_us": "Связаться с нами",
+	"contact": {
+		"email": {
+			"$type": "link",
+			"$value": "incubateX@inhacking.com"
+		},
+		"facebook": {
+			"$type": "link",
+			"$value": "https://www.facebook.com/events/1149049561804077/"
+		},
+		"twitter": {
+			"$type": "link",
+			"$value": ""
+		}
+	}
 }
