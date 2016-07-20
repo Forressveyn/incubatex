@@ -39,7 +39,8 @@
 			"$value": "15.jpg"
 		}
 	},
-	"date": "27-28 августа",
+	"front-info": "Международный продуктовый хакатон",
+	"date": "20-21 августа",
 	"venue": "Zeo Alliance КИЕВ",
 	"btn_sponsor": "СТАТЬ ПАРТНЕРОМ",
 	"btn_register": [
@@ -52,7 +53,7 @@
 	"section": {
 		"faq": "Информация",
 		"schedule": "Расписаниe",
-		"our_sponsors": "Партнеры",
+		"our_sponsors": "Наши спонсоры",
 		"be_sponsor": "Поддержать проект"
 	},
 	"about": {
@@ -250,7 +251,6 @@
 			}
 		}
 	},
-    
 	"sponsors": {
 		"name_sponsor": {
 			"$type": "array_cols",

@@ -40,7 +40,7 @@ p {
     color: #FCFDFF;
     text-shadow: 0 1px 1px #696969;
     font-family: Montserrat, sans-serif;
-    margin-top: -50px;
+    margin-top: -110px;
 }
 
 .quote {
@@ -229,4 +229,13 @@ section:not(.cardpage) {
 
 .template {
     display: none;
+}
+
+
+@media screen and (max-width: 1200px) {
+
+
+    .tagline {
+        margin-top: -50px;
+    }
 }
