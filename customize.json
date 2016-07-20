@@ -39,7 +39,7 @@
 			"$value": "15.jpg"
 		}
 	},
-	"date": "20-21 августа",
+	"date": "27-28 августа",
 	"venue": "Zeo Alliance КИЕВ",
 	"btn_sponsor": "СТАТЬ ПАРТНЕРОМ",
 	"btn_register": [
@@ -52,7 +52,7 @@
 	"section": {
 		"faq": "Информация",
 		"schedule": "Расписаниe",
-		"our_sponsors": "Наши спонсоры",
+		"our_sponsors": "Партнеры",
 		"be_sponsor": "Поддержать проект"
 	},
 	"about": {
@@ -176,7 +176,7 @@
 	},
 	"schedule": {
 		"day1": {
-			"date": "20 Августа, 2016",
+			"date": "27 Августа, 2016",
 			"table": {
 				"$type": "array_rows",
 				"$value": [{
@@ -211,7 +211,7 @@
 			}
 		},
 		"day2": {
-			"date": "August 7th, 2016",
+			"date": "28 Августа, 2016",
 			"table": {
 				"$type": "array_rows",
 				"$value": [{
@@ -250,6 +250,7 @@
 			}
 		}
 	},
+    
 	"sponsors": {
 		"name_sponsor": {
 			"$type": "array_cols",
