@@ -100,7 +100,7 @@ p {
 
 
 img.logo {
-    height: 30px;
+    height: 60px;
     padding-top: 5px
 }
 
@@ -238,4 +238,13 @@ section:not(.cardpage) {
     .tagline {
         margin-top: -50px;
     }
+}
+
+p.flow-text.center.about-body,
+p.answer.flow-text{
+    font-size: 16px;
+}
+
+h5[data-cs="contact_us"]{
+    padding-left: 10px;
 }

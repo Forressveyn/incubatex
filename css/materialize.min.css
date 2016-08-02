@@ -3556,7 +3556,7 @@ small {
       overflow: hidden;
       transition: color .28s ease; }
       .tabs .tab a:hover {
-        color: #dbe885; }
+        color: #1d6333; }
     .tabs .tab.disabled a {
       color: #dbe885;
       cursor: default; }

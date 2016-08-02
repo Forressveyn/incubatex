@@ -11,7 +11,7 @@
 	"logo": {
 		"small": {
 			"$type": "image",
-			"$value": "UkraineW.png"
+			"$value": "UkraineW-b.png"
 		},
 		"large": {
 			"$type": "image",
@@ -284,15 +284,15 @@
 	"contact": {
 		"email": {
 			"$type": "link",
-			"$value": "incubateX@inhacking.com"
+			"$value": "mailto:incubateX@inhacking.com"
 		},
 		"facebook": {
 			"$type": "link",
 			"$value": "https://www.facebook.com/events/1149049561804077/"
 		},
-		"twitter": {
+		"vk": {
 			"$type": "link",
-			"$value": ""
+			"$value": "https://new.vk.com/incubateukr"
 		}
 	}
 }
