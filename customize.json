@@ -53,7 +53,9 @@
 	"section": {
 		"faq": "Информация",
 		"schedule": "Расписаниe",
-		"our_sponsors": "Наши партнеры",
+		"general": "Генеральный спонсор",
+        "content": "Контент партнеры",
+        "info": "Инфо партнеры",
 		"be_sponsor": "Поддержать проект"
 	},
 	"about": {
@@ -256,7 +258,7 @@
 			"$type": "array_cols",
 			"$value": []
 		},
-		"gold": {
+        "gold": {
 			"$type": "array_cols",
 			"$value": [{
 				"link": {
@@ -267,16 +269,36 @@
 					"$type": "image",
 					"$value": "sponsors/2ndGen.png"
 				}
-                
+
 			}]
 		},
 		"silver": {
-			"$type": "array_cols",
-			"$value": []
+            "$type": "array_cols",
+            "$value": [{
+                "link": {
+                    "$type": "link",
+                    "$value": "#"
+                },
+                "image": {
+                    "$type": "image",
+                    "$value": "sponsors/shevit.png"
+                }
+
+            }]
 		},
 		"bronze": {
-			"$type": "array_cols",
-			"$value": []
+            "$type": "array_cols",
+            "$value": [{
+                "link": {
+                    "$type": "link",
+                    "$value": "#"
+                },
+                "image": {
+                    "$type": "image",
+                    "$value": "sponsors/shevit.png"
+                }
+
+            }]
 		}
 	},
 	"sponsor_contact": "По вопросам сотрудничества писать по адресу <a href='mailto:incubateX@inhacking.com'>incubateX at inhacking.com</a>",
